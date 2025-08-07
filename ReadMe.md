@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a Computer Science Student @ University of California, Berkeley<br>
+I'm a Computer Science Student @ University of California, Berkeley<br>
 
 
 ## 🌐 Socials:
