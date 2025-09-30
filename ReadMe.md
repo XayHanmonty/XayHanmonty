@@ -1,7 +1,7 @@
 # About Me:
 + I'm a Computer Science Student at **University of California, Berkeley**  
-+ Passionate about **AI Infrastructure**, **Machine Learning Systems**, and **Full-Stack Engineering**  
-+ Currently solving complex problems, and exploring the intersection of **AI, data, and systems**  
++ Anything about **building impactful software**, solving complex problems, and exploring the intersection of **AI, data, and systems**  
++ Currently learning and working on projects across **software engineering**, **cloud computing**, and **machine learning**  
 + Always learning and building side projects that scale  
 
 ---
