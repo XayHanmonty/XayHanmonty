@@ -1,5 +1,5 @@
-# 💫 About Me:
-🎓 I'm a Computer Science Student at **University of California, Berkeley**  
+# About Me:
++ I'm a Computer Science Student at **University of California, Berkeley**  
 + Passionate about **AI Infrastructure**, **Machine Learning Systems**, and **Full-Stack Engineering**  
 + Currently solving complex problems, and exploring the intersection of **AI, data, and systems**  
 + Always learning and building side projects that scale  
@@ -13,8 +13,8 @@
 
 ---
 
-# 💻 Tech Stack:
-### 🧠 Languages  
+# Tech Stack:
+### Languages  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -23,12 +23,12 @@
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 
-### ⚙️ Frameworks & Libraries  
+### Frameworks & Libraries  
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
-### 🧰 Databases & Cloud  
+### Databases & Cloud  
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
